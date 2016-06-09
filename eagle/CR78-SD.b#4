@@ -1719,8 +1719,6 @@ design rules under a new name.</description>
 <element name="R17" library="rcl" package="0207/10" value="2k7" x="6.35" y="-177.8"/>
 <element name="C12" library="rcl" package="C050-025X075" value="5n6" x="5.08" y="-182.88"/>
 <element name="R22" library="TR808clone" package="B64Y" value="50KB" x="3.81" y="-190.5"/>
-<element name="C13" library="rcl" package="C050-025X075" value="250p" x="5.08" y="-199.39"/>
-<element name="R23" library="rcl" package="0207/7" value="100k" x="5.08" y="-207.01"/>
 </elements>
 <signals>
 <signal name="+12V">
@@ -1958,8 +1956,6 @@ design rules under a new name.</description>
 <signal name="N$13">
 <contactref element="C7" pad="1"/>
 <contactref element="R12" pad="2"/>
-<contactref element="R23" pad="2"/>
-<wire x1="11.43" y1="-124.46" x2="8.89" y2="-207.01" width="0" layer="19" extent="1-1"/>
 <wire x1="61.722" y1="27.94" x2="11.43" y2="-124.46" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$10">
@@ -2009,15 +2005,8 @@ design rules under a new name.</description>
 <contactref element="R17" pad="2"/>
 <contactref element="C12" pad="2"/>
 <contactref element="Q4" pad="1"/>
-<contactref element="C13" pad="2"/>
-<wire x1="7.62" y1="-182.88" x2="7.62" y2="-199.39" width="0" layer="19" extent="1-1"/>
 <wire x1="11.43" y1="-177.8" x2="7.62" y2="-182.88" width="0" layer="19" extent="1-1"/>
 <wire x1="5.08" y1="-172.72" x2="11.43" y2="-177.8" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$27">
-<contactref element="C13" pad="1"/>
-<contactref element="R23" pad="1"/>
-<wire x1="2.54" y1="-199.39" x2="1.27" y2="-207.01" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
