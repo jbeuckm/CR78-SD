@@ -14754,7 +14754,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="Q2" library="808_lt" deviceset="2N3904" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
-<part name="R4" library="rcl" deviceset="R-US_" device="0204/7" value="10k"/>
+<part name="R4" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
 <part name="R2" library="rcl" deviceset="R-US_" device="0207/7" value="56k"/>
 <part name="C2" library="rcl" deviceset="C-US" device="050-025X075" value="27n"/>
 <part name="P+6" library="supply1" deviceset="+12V" device=""/>
@@ -14774,42 +14774,42 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="SD" library="con-molex" deviceset="22-23-2051" device=""/>
 <part name="P+11" library="supply1" deviceset="+12V" device=""/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
-<part name="R1" library="rcl" deviceset="R-US_" device="0204/7" value="270k"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="0207/7" value="270k"/>
 <part name="D1" library="diode" deviceset="1N4148" device="DO35-7"/>
 <part name="D2" library="diode" deviceset="1N4148" device="DO35-7"/>
-<part name="R3" library="rcl" deviceset="R-US_" device="0204/7" value="220k"/>
-<part name="R5" library="rcl" deviceset="R-US_" device="0204/7" value="470k"/>
-<part name="R6" library="rcl" deviceset="R-US_" device="0204/7" value="820k"/>
+<part name="R3" library="rcl" deviceset="R-US_" device="0207/7" value="220k"/>
+<part name="R5" library="rcl" deviceset="R-US_" device="0207/7" value="470k"/>
+<part name="R6" library="rcl" deviceset="R-US_" device="0207/7" value="820k"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="R7" library="rcl" deviceset="R-US_" device="0207/10" value="15k"/>
-<part name="R8" library="rcl" deviceset="R-US_" device="0204/7" value="68k"/>
+<part name="R7" library="rcl" deviceset="R-US_" device="0207/7" value="15k"/>
+<part name="R8" library="rcl" deviceset="R-US_" device="0207/7" value="68k"/>
 <part name="Q1" library="808_lt" deviceset="2N3904" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="rcl" deviceset="C-US" device="050-025X075" value="10n"/>
 <part name="C3" library="rcl" deviceset="C-US" device="050-025X075" value="10n"/>
 <part name="C4" library="rcl" deviceset="C-US" device="050-025X075" value="5n6"/>
 <part name="C5" library="rcl" deviceset="C-US" device="050-025X075" value="100p"/>
-<part name="R9" library="rcl" deviceset="R-US_" device="0204/7" value="1M"/>
-<part name="R10" library="rcl" deviceset="R-US_" device="0204/7" value="15k"/>
+<part name="R9" library="rcl" deviceset="R-US_" device="0207/7" value="1M"/>
+<part name="R10" library="rcl" deviceset="R-US_" device="0207/7" value="15k"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="Q3" library="808_lt" deviceset="2N3904" device=""/>
-<part name="R11" library="rcl" deviceset="R-US_" device="0204/7" value="4k7"/>
+<part name="R11" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="P+1" library="supply1" deviceset="+12V" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="C6" library="rcl" deviceset="C-US" device="050-025X075" value="22n"/>
-<part name="R12" library="rcl" deviceset="R-US_" device="0204/7" value="1M5"/>
-<part name="R13" library="rcl" deviceset="R-US_" device="0204/7" value="10k"/>
+<part name="R12" library="rcl" deviceset="R-US_" device="0207/7" value="1M5"/>
+<part name="R13" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
 <part name="P+4" library="supply1" deviceset="+12V" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="D3" library="diode" deviceset="1N4148" device="DO35-7"/>
 <part name="C10" library="rcl" deviceset="C-US" device="050-025X075" value="18n"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="R14" library="rcl" deviceset="R-US_" device="0207/10" value="1M5"/>
+<part name="R14" library="rcl" deviceset="R-US_" device="0207/7" value="1M5"/>
 <part name="R15" library="rcl" deviceset="R-US_" device="0207/7" value="47k"/>
 <part name="C11" library="rcl" deviceset="C-US" device="050-025X075" value="8n2"/>
 <part name="R16" library="rcl" deviceset="R-US_" device="0207/7" value="470k"/>
 <part name="Q4" library="808_lt" deviceset="2N3904" device=""/>
-<part name="R17" library="rcl" deviceset="R-US_" device="0204/7" value="2k7"/>
+<part name="R17" library="rcl" deviceset="R-US_" device="0207/7" value="2k7"/>
 <part name="C12" library="rcl" deviceset="C-US" device="050-025X075" value="5n6"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>

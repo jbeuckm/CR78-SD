@@ -14845,7 +14845,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <instance part="GND12" gate="1" x="160.02" y="53.34"/>
 <instance part="C7" gate="G$1" x="152.4" y="78.74" rot="R90"/>
 <instance part="SD" gate="-1" x="0" y="68.58" rot="R180"/>
-<instance part="SD" gate="-2" x="86.36" y="7.62" rot="R180"/>
+<instance part="SD" gate="-2" x="83.82" y="7.62" rot="R180"/>
 <instance part="SD" gate="-3" x="20.32" y="114.3"/>
 <instance part="SD" gate="-4" x="20.32" y="111.76"/>
 <instance part="SD" gate="-5" x="198.12" y="81.28" rot="R180"/>
@@ -15286,7 +15286,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <segment>
 <pinref part="R22" gate="1" pin="E"/>
 <pinref part="SD" gate="-2" pin="S"/>
-<wire x1="88.9" y1="7.62" x2="99.06" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="7.62" x2="99.06" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$26" class="0">
