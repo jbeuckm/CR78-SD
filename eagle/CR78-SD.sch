@@ -14763,7 +14763,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="R19" library="rcl" deviceset="R-US_" device="0207/7" value="470k"/>
 <part name="R20" library="rcl" deviceset="R-US_" device="0207/7" value="47k"/>
 <part name="R21" library="rcl" deviceset="R-US_" device="0207/7" value="220R"/>
-<part name="C9" library="rcl" deviceset="CPOL-US" device="B45181A" value="1uF"/>
+<part name="C9" library="rcl" deviceset="CPOL-US" device="B45181B" value="1uF"/>
 <part name="JCK1" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="P+9" library="supply1" deviceset="+12V" device=""/>
