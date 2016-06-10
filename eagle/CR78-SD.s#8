@@ -14836,6 +14836,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="R22" library="TR808clone" deviceset="TRIM_EU-" device="B64Y" value="50KB"/>
 <part name="P+7" library="supply1" deviceset="+12V" device=""/>
 <part name="P+5" library="supply1" deviceset="+12V" device=""/>
+<part name="C13" library="rcl" deviceset="C-US" device="050-025X075" value="250p"/>
 </parts>
 <sheets>
 <sheet>
@@ -14915,6 +14916,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 </instance>
 <instance part="P+7" gate="1" x="99.06" y="22.86"/>
 <instance part="P+5" gate="1" x="127" y="58.42"/>
+<instance part="C13" gate="G$1" x="142.24" y="40.64" rot="R270"/>
 </instances>
 <busses>
 </busses>

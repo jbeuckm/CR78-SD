@@ -2007,6 +2007,8 @@ design rules under a new name.</description>
 <contactref element="R17" pad="2"/>
 <contactref element="C12" pad="2"/>
 <contactref element="Q4" pad="1"/>
+<contactref element="C13" pad="2"/>
+<wire x1="7.62" y1="-182.88" x2="7.62" y2="-199.39" width="0" layer="19" extent="1-1"/>
 <wire x1="11.43" y1="-177.8" x2="7.62" y2="-182.88" width="0" layer="19" extent="1-1"/>
 <wire x1="5.08" y1="-172.72" x2="11.43" y2="-177.8" width="0" layer="19" extent="1-1"/>
 </signal>
